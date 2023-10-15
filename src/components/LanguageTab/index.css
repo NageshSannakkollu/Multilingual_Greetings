@@ -1,0 +1,15 @@
+.language-button {
+  padding: 6px 15px;
+  border-radius: 12px;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-weight: 600;
+}
+
+.active-button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
